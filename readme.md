@@ -1,16 +1,10 @@
 ## About Template Fox
 
-We find designs from all over the web and produce it in web format. The task is highly enjoyable and we try to embedd with latest technologies.
+![Alt text](/screenshot.png?raw=true "Screenshot")
 
-- [Demo](https://payzone.surge.sh)
+I am full stack developer who enjoys converting designs from picture to web page.
+
 - [Find me](https://sumanshresth.com.np)
-
-### Features
-
-- [x] Subscription form
-- [x] Responsive
-- [x] Menu in small screensize
-- [x] Embedd messenger 
 
 ### Technologies used
 
@@ -29,7 +23,9 @@ A small help would allow me to keep this task on going. I would be happy to assi
 
 I am good with Laravel, vuejs, reactjs, alpinejs, wordpress and tailwindcss.
 
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=3DMDSFCAJT376&currency_code=USD)
+
 
 ### Contact
 
@@ -43,6 +39,7 @@ In any case, you can reach me out at summonshr@gmail.com or hire me.
 - [x] [Alpinejs](https://laravel-livewire.com)
 - [x] [Livewire](https://laravel-livewire.com)
 - [x] [Tailwindcss](https://tailwindcss.com)
+- [x] [ChartJS](https://chartjs.org)
 
 ### Reach me at
 
